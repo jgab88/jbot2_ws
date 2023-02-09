@@ -1,0 +1,7 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/jg/car_ws/install/autocar_nav/lib/python3.8/site-packages",
+        "/home/jg/car_ws/install/autocar_msgs/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ]
+}
