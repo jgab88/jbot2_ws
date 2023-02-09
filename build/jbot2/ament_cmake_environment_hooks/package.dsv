@@ -1,0 +1,4 @@
+source;share/jbot2/local_setup.bash
+source;share/jbot2/local_setup.dsv
+source;share/jbot2/local_setup.sh
+source;share/jbot2/local_setup.zsh

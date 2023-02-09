@@ -1,0 +1,53 @@
+[0.035s] Invoking command in '/home/jg/jbot2_ws/build/jbot2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/jg/jbot2_ws/build/jbot2 -- -j10 -l10
+[0.090s] Invoked command in '/home/jg/jbot2_ws/build/jbot2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/jg/jbot2_ws/build/jbot2 -- -j10 -l10
+[0.140s] Invoking command in '/home/jg/jbot2_ws/build/jbot2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/jg/jbot2_ws/build/jbot2
+[0.152s] -- Install configuration: ""
+[0.152s] -- Execute custom install script
+[0.153s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/config/empty.yaml
+[0.153s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/config/view_bot.rviz
+[0.154s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/gazebo_control.xacro
+[0.154s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/inertial_macros.xacro
+[0.155s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/LIDAR_1.stl
+[0.155s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/SONAR_FRONT_1.stl
+[0.155s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/SONAR_LEFT_1.stl
+[0.155s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/SONAR_REAR_1.stl
+[0.156s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/SONAR_RIGHT_1.stl
+[0.156s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/WHEEL_FL_1.stl
+[0.156s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/WHEEL_FR_1.stl
+[0.156s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/WHEEL_RL_1.stl
+[0.157s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/WHEEL_RR_1.stl
+[0.157s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/base_link2.stl
+[0.157s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/base_link3.stl
+[0.157s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/chassis.stl
+[0.158s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/chassis1.stl
+[0.158s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes2/bl_wheel.stl
+[0.158s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes2/chassis.stl
+[0.159s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes2/fchassis.stl
+[0.159s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes2/fl_wheel.stl
+[0.159s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes2/fr_wheel.stl
+[0.160s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes2/rchassis.stl
+[0.160s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes2/rr_wheel.stl
+[0.160s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/model.config
+[0.160s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/robot.urdf.xacro
+[0.161s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/robot_core.urdf
+[0.161s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/robot_core.xacro
+[0.161s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/launch/launch_sim.launch.py
+[0.162s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/launch/rsp.launch.py
+[0.162s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/worlds/empty.world
+[0.163s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/worlds/full.world
+[0.163s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/ament_index/resource_index/package_run_dependencies/jbot2
+[0.163s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/ament_index/resource_index/parent_prefix_path/jbot2
+[0.164s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/environment/ament_prefix_path.sh
+[0.164s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/environment/ament_prefix_path.dsv
+[0.165s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/environment/path.sh
+[0.165s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/environment/path.dsv
+[0.165s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/local_setup.bash
+[0.166s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/local_setup.sh
+[0.166s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/local_setup.zsh
+[0.167s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/local_setup.dsv
+[0.167s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/package.dsv
+[0.180s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/ament_index/resource_index/packages/jbot2
+[0.181s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/cmake/jbot2Config.cmake
+[0.181s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/cmake/jbot2Config-version.cmake
+[0.181s] -- Up-to-date symlink: /home/jg/jbot2_ws/install/jbot2/share/jbot2/package.xml
+[0.187s] Invoked command in '/home/jg/jbot2_ws/build/jbot2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/jg/jbot2_ws/build/jbot2

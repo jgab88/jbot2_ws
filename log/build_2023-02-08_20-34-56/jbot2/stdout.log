@@ -1,0 +1,76 @@
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.9.7 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/jg/jbot2_ws/build/jbot2
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/config/empty.yaml
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/config/view_bot.rviz
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/gazebo_control.xacro
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/inertial_macros.xacro
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/LIDAR_1.stl
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/SONAR_FRONT_1.stl
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/SONAR_LEFT_1.stl
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/SONAR_REAR_1.stl
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/SONAR_RIGHT_1.stl
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/WHEEL_FL_1.stl
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/WHEEL_FR_1.stl
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/WHEEL_RL_1.stl
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/WHEEL_RR_1.stl
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/base_link2.stl
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/base_link3.stl
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/chassis.stl
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/chassis1.stl
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes2/bl_wheel.stl
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes2/chassis.stl
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes2/fchassis.stl
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes2/fl_wheel.stl
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes2/fr_wheel.stl
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes2/rchassis.stl
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes2/rr_wheel.stl
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/model.config
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/robot.urdf.xacro
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/robot_core.urdf
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/robot_core.xacro
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/launch/launch_sim.launch.py
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/launch/rsp.launch.py
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/worlds/empty.world
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/worlds/full.world
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/ament_index/resource_index/package_run_dependencies/jbot2
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/ament_index/resource_index/parent_prefix_path/jbot2
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/environment/ament_prefix_path.sh
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/environment/ament_prefix_path.dsv
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/environment/path.sh
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/environment/path.dsv
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/local_setup.bash
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/local_setup.sh
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/local_setup.zsh
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/local_setup.dsv
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/package.dsv
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/ament_index/resource_index/packages/jbot2
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/cmake/jbot2Config.cmake
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/cmake/jbot2Config-version.cmake
+-- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/package.xml

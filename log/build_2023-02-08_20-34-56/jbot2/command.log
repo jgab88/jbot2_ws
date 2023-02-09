@@ -1,0 +1,6 @@
+Invoking command in '/home/jg/jbot2_ws/build/jbot2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/jg/jbot2_ws/src/jbot2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jg/jbot2_ws/install/jbot2
+Invoked command in '/home/jg/jbot2_ws/build/jbot2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/jg/jbot2_ws/src/jbot2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jg/jbot2_ws/install/jbot2
+Invoking command in '/home/jg/jbot2_ws/build/jbot2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/jg/jbot2_ws/build/jbot2 -- -j10 -l10
+Invoked command in '/home/jg/jbot2_ws/build/jbot2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/jg/jbot2_ws/build/jbot2 -- -j10 -l10
+Invoking command in '/home/jg/jbot2_ws/build/jbot2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/jg/jbot2_ws/build/jbot2
+Invoked command in '/home/jg/jbot2_ws/build/jbot2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/jg/jbot2_ws/build/jbot2

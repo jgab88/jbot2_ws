@@ -1,0 +1,82 @@
+[0.034s] Invoking command in '/home/jg/jbot2_ws/build/jbot2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/jg/jbot2_ws/src/jbot2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jg/jbot2_ws/install/jbot2
+[0.110s] -- The C compiler identification is GNU 9.4.0
+[0.187s] -- The CXX compiler identification is GNU 9.4.0
+[0.194s] -- Check for working C compiler: /usr/bin/cc
+[0.293s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.295s] -- Detecting C compiler ABI info
+[0.392s] -- Detecting C compiler ABI info - done
+[0.409s] -- Detecting C compile features
+[0.409s] -- Detecting C compile features - done
+[0.413s] -- Check for working CXX compiler: /usr/bin/c++
+[0.528s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.530s] -- Detecting CXX compiler ABI info
+[0.645s] -- Detecting CXX compiler ABI info - done
+[0.662s] -- Detecting CXX compile features
+[0.663s] -- Detecting CXX compile features - done
+[0.667s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.705s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.705s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.976s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.019s] -- Found ament_lint_auto: 0.9.7 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[1.165s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.170s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.171s] -- Added test 'lint_cmake' to check CMake code style
+[1.172s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[1.174s] -- Added test 'xmllint' to check XML markup files
+[1.178s] -- Configuring done
+[1.181s] -- Generating done
+[1.183s] -- Build files have been written to: /home/jg/jbot2_ws/build/jbot2
+[1.190s] Invoked command in '/home/jg/jbot2_ws/build/jbot2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/jg/jbot2_ws/src/jbot2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jg/jbot2_ws/install/jbot2
+[1.195s] Invoking command in '/home/jg/jbot2_ws/build/jbot2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/jg/jbot2_ws/build/jbot2 -- -j10 -l10
+[1.253s] Invoked command in '/home/jg/jbot2_ws/build/jbot2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/jg/jbot2_ws/build/jbot2 -- -j10 -l10
+[1.302s] Invoking command in '/home/jg/jbot2_ws/build/jbot2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/jg/jbot2_ws/build/jbot2
+[1.312s] -- Install configuration: ""
+[1.312s] -- Execute custom install script
+[1.313s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/config/empty.yaml
+[1.326s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/config/view_bot.rviz
+[1.339s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/gazebo_control.xacro
+[1.352s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/inertial_macros.xacro
+[1.365s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/LIDAR_1.stl
+[1.378s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/SONAR_FRONT_1.stl
+[1.390s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/SONAR_LEFT_1.stl
+[1.403s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/SONAR_REAR_1.stl
+[1.416s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/SONAR_RIGHT_1.stl
+[1.429s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/WHEEL_FL_1.stl
+[1.442s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/WHEEL_FR_1.stl
+[1.455s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/WHEEL_RL_1.stl
+[1.468s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/WHEEL_RR_1.stl
+[1.480s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/base_link2.stl
+[1.492s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/base_link3.stl
+[1.505s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/chassis.stl
+[1.518s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes/chassis1.stl
+[1.531s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes2/bl_wheel.stl
+[1.545s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes2/chassis.stl
+[1.557s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes2/fchassis.stl
+[1.569s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes2/fl_wheel.stl
+[1.582s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes2/fr_wheel.stl
+[1.594s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes2/rchassis.stl
+[1.608s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/meshes2/rr_wheel.stl
+[1.621s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/model.config
+[1.634s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/robot.urdf.xacro
+[1.646s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/robot_core.urdf
+[1.659s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/description/robot_core.xacro
+[1.672s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/launch/launch_sim.launch.py
+[1.684s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/launch/rsp.launch.py
+[1.697s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/worlds/empty.world
+[1.710s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/worlds/full.world
+[1.723s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/ament_index/resource_index/package_run_dependencies/jbot2
+[1.735s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/ament_index/resource_index/parent_prefix_path/jbot2
+[1.748s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/environment/ament_prefix_path.sh
+[1.761s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/environment/ament_prefix_path.dsv
+[1.773s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/environment/path.sh
+[1.786s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/environment/path.dsv
+[1.798s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/local_setup.bash
+[1.811s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/local_setup.sh
+[1.823s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/local_setup.zsh
+[1.836s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/local_setup.dsv
+[1.849s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/package.dsv
+[1.862s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/ament_index/resource_index/packages/jbot2
+[1.874s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/cmake/jbot2Config.cmake
+[1.886s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/cmake/jbot2Config-version.cmake
+[1.898s] -- Symlinking: /home/jg/jbot2_ws/install/jbot2/share/jbot2/package.xml
+[1.914s] Invoked command in '/home/jg/jbot2_ws/build/jbot2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/jg/jbot2_ws/build/jbot2
